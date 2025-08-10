@@ -6,7 +6,7 @@ This script will:
 
 1.  Create a new, server-side custodial wallet on Solana Devnet.
 2.  Request an airdrop of 1 SOL from the Solana Devnet faucet to the newly created wallet. (**Please keep in mind that a maximum of two airdrops is allowed every 8 hours. This is limited by IP address!**)
-3.  Use that wallet to send a small amount of devnet SOL to a specified recipient address.
+3.  Use that wallet to send a small amount of SOL to a specified recipient address.
 
 ## Prerequisites
 
