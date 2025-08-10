@@ -10,7 +10,6 @@
   "author": "Crossmint",
   "license": "MIT",
   "dependencies": {
-    "@crossmint/wallets-sdk": "^2.0.0",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
