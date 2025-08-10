@@ -17,7 +17,7 @@ This script will:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/crossmint/globosend-solana-quickstart.git
+    git clone https://github.com/bluerememberedearth/globosend-solana-quickstart.git
     cd globosend-solana-quickstart
     ```
 
