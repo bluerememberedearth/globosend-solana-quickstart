@@ -16,8 +16,8 @@ This script will:
     *   `wallets.read`
     *   `wallets.create`
     *   `wallets:transactions.create`
-    *   `wallets:transactions.read`
     *   `wallets:transactions.sign`
+    *   `wallets:transactions.read`
     *   `wallets:signatures.create`
 
 
