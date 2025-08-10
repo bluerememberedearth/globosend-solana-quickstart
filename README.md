@@ -37,6 +37,7 @@ This script will:
     CROSSMINT_API_KEY="sk_staging_..."
     RECIPIENT_ADDRESS="<your_solana_recipient_address>"
     ```
+    Your API Key can be found in your Crossmint Staging Console.
     Replace `<your_solana_recipient_address>` with any Solana address you'd like to send the test transaction to.
 
 ## Running the Script
