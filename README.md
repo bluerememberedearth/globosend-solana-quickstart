@@ -47,7 +47,7 @@ This script will:
     RECIPIENT_ADDRESS="<your_solana_recipient_address>"
     ```
 
-    Your API Key can be found in your Crossmint Staging Console. Replace `<your_solana_recipient_address>` with any Solana address you'd like to send the test transaction to.
+    Your API Key can be found in your Crossmint Staging Console. Replace `<your_solana_recipient_address>` with any Solana address you'd like your test transaction to send SOL to.
 
 ## Running the Script
 
