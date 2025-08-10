@@ -53,7 +53,7 @@ async function main() {
         );
 
         console.log("[Crossmint Quickstart] ✅ Transaction sent successfully!");
-        console.log(`   - Transaction Hash: ${transaction.id}`);
+        console.log(`   - Transaction Hash: ${transaction.hash}`);
         console.log(`   - View on Explorer: ${transaction.explorerLink}`);
 
     } catch (error) {
