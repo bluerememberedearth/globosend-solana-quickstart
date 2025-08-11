@@ -13,12 +13,12 @@ This script will:
 1.  **Node.js** (v18 or later).
 2.  A **Crossmint Developer Account**. You can sign up on the [Staging Console](https://staging.crossmint.com/console).
 3.  A **Server-Side API Key** from your Crossmint project with the following scopes enabled:
-    *   `wallets.read`
-    *   `wallets.create`
-    *   `wallets:transactions.create`
-    *   `wallets:transactions.sign`
-    *   `wallets:transactions.read`
-    *   `wallets:signatures.create`
+       `wallets.read`
+       `wallets.create`
+       `wallets:transactions.create`
+       `wallets:transactions.sign`
+       `wallets:transactions.read`
+       `wallets:signatures.create`
 
 
 ## Setup
